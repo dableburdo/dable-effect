@@ -1,0 +1,8 @@
+<setting>
+    <tag load="dable-comp-text">Text</tag>
+    <tag load="dable-comp-frame">Frame</tag>
+    <tag load="dable-effect-synchei">SyncHei</tag>
+</setting>
+<Frame name=frm size=(3rem,1rem)>
+    <Text effect=SynHei:(@frm,"-0.3rem")>Sync Height</Text>
+</Frame>

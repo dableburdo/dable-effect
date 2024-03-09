@@ -1,0 +1,22 @@
+{
+  "name": "dable-effect",
+  "version": "1.0.0",
+  "description": "synchronization height effect for dable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dableburdo/dable-effect.git"
+  },
+  "keywords": [
+    "front-end","dable", "animation", "effect"
+  ],
+  "author": "dable author",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dable/dable-effect/issues"
+  },
+  "homepage": "https://github.com/dable/dable-effect#readme"
+}
