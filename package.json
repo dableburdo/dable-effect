@@ -1,6 +1,6 @@
 {
   "name": "dable-effect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "synchronization height effect for dable",
   "main": "index.js",
   "scripts": {
